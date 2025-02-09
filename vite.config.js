@@ -1,3 +1,3 @@
 export default {
-    base: "/running-website",
+    base: "/running-website/",
 }
