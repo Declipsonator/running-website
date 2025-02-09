@@ -1,0 +1,3794 @@
+{
+    "200m, 200m, 200m, 200m": [
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.22
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ]
+            ],
+            "total_time": 95.28
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.3
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ]
+            ],
+            "total_time": 95.34
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.36
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 95.41
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ]
+            ],
+            "total_time": 95.42
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 95.43
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 95.49
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 95.55
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Jackson Hickey",
+                    24.85
+                ]
+            ],
+            "total_time": 95.76
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Jackson Hickey",
+                    24.85
+                ]
+            ],
+            "total_time": 95.78
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jackson Hickey",
+                    24.85
+                ]
+            ],
+            "total_time": 95.84
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.84
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jackson Hickey",
+                    24.85
+                ]
+            ],
+            "total_time": 95.9
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.9
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ]
+            ],
+            "total_time": 95.96
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ]
+            ],
+            "total_time": 95.97
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ]
+            ],
+            "total_time": 95.97
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Jackson Hickey",
+                    24.85
+                ]
+            ],
+            "total_time": 95.97
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 95.97
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.98
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.99
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ]
+            ],
+            "total_time": 95.99
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 96.03
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ]
+            ],
+            "total_time": 96.05
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ]
+            ],
+            "total_time": 96.05
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 96.05
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ]
+            ],
+            "total_time": 96.09
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ]
+            ],
+            "total_time": 96.11
+        }
+    ],
+    "400m, 400m, 400m, 400m": [
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 213.63
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 213.88
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 214.29
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 214.33
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 214.5
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 214.58
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 214.63
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 214.83
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 214.84
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 214.99
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.03
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Ethan Leombrone",
+                    56.08
+                ]
+            ],
+            "total_time": 215.16
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.2
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.24
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.25
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.28
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.29
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.33
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.45
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.46
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.5
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.53
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.54
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.58
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.59
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ]
+            ],
+            "total_time": 215.69
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.71
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "Jackson Hickey",
+                    53.59
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.78
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "David Blodgett",
+                    54.55
+                ]
+            ],
+            "total_time": 215.79
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Andrew Green",
+                    54.8
+                ]
+            ],
+            "total_time": 215.84
+        }
+    ],
+    "800m, 800m, 800m, 800m": [
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 500.73
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 502.32
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 502.98
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 504.85
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 504.85
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 505.21
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 505.51
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 505.87
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 507.1
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 507.38
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 507.46
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 507.74
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    135.35
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 507.91
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    135.35
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 508.57
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Evan Furciniti",
+                    136.04
+                ]
+            ],
+            "total_time": 508.6
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ]
+            ],
+            "total_time": 508.97
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Evan Furciniti",
+                    136.04
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 509.26
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ]
+            ],
+            "total_time": 509.33
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 509.63
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Hain",
+                    137.15
+                ]
+            ],
+            "total_time": 509.71
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jacob Pacer",
+                    137.34
+                ]
+            ],
+            "total_time": 509.9
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 509.99
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    132.29
+                ],
+                [
+                    "Jared Mulley",
+                    132.65
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 509.99
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Corey Roeser",
+                    135.35
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ]
+            ],
+            "total_time": 510.16
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Hain",
+                    137.15
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 510.37
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    135.35
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 510.44
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jacob Pacer",
+                    137.34
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 510.56
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Henry Hill",
+                    138.06
+                ]
+            ],
+            "total_time": 510.62
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Evan Furciniti",
+                    136.04
+                ]
+            ],
+            "total_time": 510.85
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    129.76
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    128.17
+                ]
+            ],
+            "total_time": 511.08
+        }
+    ],
+    "1609m, 1609m, 1609m, 1609m": [
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1097.2
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1109.27
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1110.07
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1116.28
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ]
+            ],
+            "total_time": 1118.14
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1126.47
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1127.27
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Joshua Passalugo",
+                    310.02
+                ]
+            ],
+            "total_time": 1128.75
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Joshua Passalugo",
+                    310.02
+                ]
+            ],
+            "total_time": 1129.55
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1133.48
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ]
+            ],
+            "total_time": 1135.34
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Joshua Passalugo",
+                    310.02
+                ]
+            ],
+            "total_time": 1135.76
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Joshua Passalugo",
+                    310.02
+                ]
+            ],
+            "total_time": 1137.62
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Tyler Ferri",
+                    319.88
+                ]
+            ],
+            "total_time": 1138.61
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1139.34
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Tyler Ferri",
+                    319.88
+                ]
+            ],
+            "total_time": 1139.41
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Joshua Passalugo",
+                    310.02
+                ]
+            ],
+            "total_time": 1141.62
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Brandon Green",
+                    323.05
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1141.78
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Brandon Green",
+                    323.05
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1142.58
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Joseph Marafioti",
+                    323.95
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1142.68
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Andrew Kelly",
+                    324.13
+                ]
+            ],
+            "total_time": 1142.86
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Joseph Marafioti",
+                    323.95
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1143.48
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Andrew Kelly",
+                    324.13
+                ]
+            ],
+            "total_time": 1143.66
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Brayden Vandeburg",
+                    325.04
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1143.77
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Brayden Vandeburg",
+                    325.04
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1144.57
+        },
+        {
+            "team": [
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1145.55
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ],
+                [
+                    "Tyler Ferri",
+                    319.88
+                ]
+            ],
+            "total_time": 1145.62
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Andrew Green",
+                    269.6
+                ]
+            ],
+            "total_time": 1146.35
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Andrew Hain",
+                    290.54
+                ],
+                [
+                    "Jacob Pacer",
+                    307.74
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ]
+            ],
+            "total_time": 1147.41
+        },
+        {
+            "team": [
+                [
+                    "Jackson Hickey",
+                    271.46
+                ],
+                [
+                    "Ethan Leombrone",
+                    278.47
+                ],
+                [
+                    "Henry Hill",
+                    277.67
+                ],
+                [
+                    "Tyler Ferri",
+                    319.88
+                ]
+            ],
+            "total_time": 1147.48
+        }
+    ],
+    "200m, 200m, 400m, 800m": [
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.09
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.11
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.17
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.23
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.3
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.65
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.71
+        },
+        {
+            "team": [
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.73
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.77
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.79
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.84
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.85
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.86
+        },
+        {
+            "team": [
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.86
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.86
+        },
+        {
+            "team": [
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.92
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Anthony Bowen",
+                    24.5
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 219.98
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "David Blodgett",
+                    25.2
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.0
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Leith Steele",
+                    25.32
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.12
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    23.75
+                ],
+                [
+                    "Christian Stewart",
+                    25.58
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.38
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.4
+        },
+        {
+            "team": [
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.4
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "CJ Wheaton",
+                    24.29
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.42
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.42
+        },
+        {
+            "team": [
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.42
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Jared Mulley",
+                    24.31
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.44
+        },
+        {
+            "team": [
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.48
+        },
+        {
+            "team": [
+                [
+                    "Brayden Schlicker",
+                    25.06
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.48
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    22.87
+                ],
+                [
+                    "Austin Corwin",
+                    24.37
+                ],
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.5
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    24.43
+                ],
+                [
+                    "Corey Roeser",
+                    25.06
+                ],
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ]
+            ],
+            "total_time": 220.54
+        }
+    ],
+    "400m, 800m, 1200m, 1600m": [
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 636.92
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 637.3
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 637.48
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 639.13
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 639.17
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Andrew Green",
+                    192.41
+                ],
+                [
+                    "Henry Hill",
+                    275.82
+                ]
+            ],
+            "total_time": 639.28
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Andrew Green",
+                    192.41
+                ],
+                [
+                    "Jackson Hickey",
+                    269.66
+                ]
+            ],
+            "total_time": 639.35
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 639.51
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 639.69
+        },
+        {
+            "team": [
+                [
+                    "David Blodgett",
+                    54.55
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 639.83
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Andrew Green",
+                    192.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    276.62
+                ]
+            ],
+            "total_time": 640.08
+        },
+        {
+            "team": [
+                [
+                    "David Blodgett",
+                    54.55
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.21
+        },
+        {
+            "team": [
+                [
+                    "David Blodgett",
+                    54.55
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.39
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.49
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.53
+        },
+        {
+            "team": [
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.7
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.83
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.87
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 640.91
+        },
+        {
+            "team": [
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.03
+        },
+        {
+            "team": [
+                [
+                    "CJ Wheaton",
+                    55.21
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.05
+        },
+        {
+            "team": [
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.08
+        },
+        {
+            "team": [
+                [
+                    "Jared Mulley",
+                    55.25
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.09
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.21
+        },
+        {
+            "team": [
+                [
+                    "Frank D\u2019Angelo",
+                    51.64
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Andrew Green",
+                    192.41
+                ],
+                [
+                    "Jackson Hickey",
+                    269.66
+                ]
+            ],
+            "total_time": 641.22
+        },
+        {
+            "team": [
+                [
+                    "Austin Corwin",
+                    55.42
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.26
+        },
+        {
+            "team": [
+                [
+                    "Ethan Leombrone",
+                    56.08
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Henry Hill",
+                    198.06
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.36
+        },
+        {
+            "team": [
+                [
+                    "Sam Newburge",
+                    53.85
+                ],
+                [
+                    "David Blodgett",
+                    127.51
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.38
+        },
+        {
+            "team": [
+                [
+                    "Bailey Frank",
+                    55.55
+                ],
+                [
+                    "Jackson Hickey",
+                    119.41
+                ],
+                [
+                    "Ethan Leombrone",
+                    198.62
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.39
+        },
+        {
+            "team": [
+                [
+                    "Anthony Bowen",
+                    55.75
+                ],
+                [
+                    "Ethan Leombrone",
+                    125.64
+                ],
+                [
+                    "Jackson Hickey",
+                    192.21
+                ],
+                [
+                    "Andrew Green",
+                    267.81
+                ]
+            ],
+            "total_time": 641.41
+        }
+    ]
+}
