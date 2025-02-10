@@ -26,6 +26,7 @@ jobs:
           python3 -m pip install -r requirements.txt
       - name: Update data
         run: |
+          cd python
           python3 --version
           python3 main.py
 
