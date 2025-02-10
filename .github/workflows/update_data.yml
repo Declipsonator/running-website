@@ -21,12 +21,12 @@ jobs:
           architecture: 'x64'
       - name: Install requirements
         run: |
+          cd python
           python3 -m pip install --upgrade pip 
           python3 -m pip install -r requirements.txt
-      - name: Update README
+      - name: Update data
         run: |
           python3 --version
-          cd python
           python3 main.py
 
       - name: Commit to the repo
