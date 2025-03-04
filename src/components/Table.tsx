@@ -62,7 +62,7 @@ const TheTable = () => {
         return parts.reduce((acc, part) => acc * 60 + parseFloat(part), 0);
     };
 
-    const handleSort = (accessor: string, d= null) => {
+    const handleSort = (accessor: string, d: string) => {
         let direction = 'ascending';
         if (sortConfig.key === accessor && sortConfig.direction === 'ascending') {
             direction = 'descending';
