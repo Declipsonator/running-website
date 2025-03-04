@@ -1,0 +1,294 @@
+{
+    "55m": [
+        {
+            "name": "MaKayla George",
+            "time": "00:07.27"
+        },
+        {
+            "name": "Brenna Goss",
+            "time": "00:07.52"
+        },
+        {
+            "name": "Gabby Rause",
+            "time": "00:07.60"
+        },
+        {
+            "name": "Ty'Nique Edmunds",
+            "time": "00:07.85"
+        },
+        {
+            "name": "Lauren Murphy",
+            "time": "00:07.89"
+        }
+    ],
+    "300m": [
+        {
+            "name": "Brenna Goss",
+            "time": "00:42.76"
+        },
+        {
+            "name": "Anna Blodgett",
+            "time": "00:44.20"
+        },
+        {
+            "name": "Gabby Rause",
+            "time": "00:44.56"
+        },
+        {
+            "name": "Courtney Leary",
+            "time": "00:44.59"
+        },
+        {
+            "name": "MaKayla George",
+            "time": "00:44.81"
+        }
+    ],
+    "400m": [
+        {
+            "name": "Anna Blodgett",
+            "time": "0:59.9"
+        },
+        {
+            "name": "Brenna Goss",
+            "time": "1:01.3"
+        },
+        {
+            "name": "Helena Painting",
+            "time": "1:02.74"
+        },
+        {
+            "name": "Gabby Rause",
+            "time": "1:04.03"
+        },
+        {
+            "name": "Courtney Leary",
+            "time": "1:04.08"
+        }
+    ],
+    "200m": [
+        {
+            "name": "Brenna Goss",
+            "time": "0:26.67"
+        },
+        {
+            "name": "Anna Blodgett",
+            "time": "0:27.51"
+        },
+        {
+            "name": "Gabby Rause",
+            "time": "0:27.72"
+        },
+        {
+            "name": "Courtney Leary",
+            "time": "0:27.74"
+        },
+        {
+            "name": "MaKayla George",
+            "time": "0:27.86"
+        }
+    ],
+    "600m": [
+        {
+            "name": "Anna Blodgett",
+            "time": "01:40.00"
+        },
+        {
+            "name": "Helena Painting",
+            "time": "01:45.07"
+        },
+        {
+            "name": "Brenna Goss",
+            "time": "01:48.05"
+        },
+        {
+            "name": "Courtney Leary",
+            "time": "01:51.06"
+        },
+        {
+            "name": "Hannah Denis",
+            "time": "01:56.92"
+        }
+    ],
+    "800m": [
+        {
+            "name": "Anna Blodgett",
+            "time": "2:21.31"
+        },
+        {
+            "name": "Helena Painting",
+            "time": "2:23.79"
+        },
+        {
+            "name": "Brenna Goss",
+            "time": "2:33.08"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "2:33.49"
+        },
+        {
+            "name": "Madison Hansen",
+            "time": "2:36.29"
+        }
+    ],
+    "55m Hurdles": [
+        {
+            "name": "Ty'Nique Edmunds",
+            "time": "00:09.41"
+        },
+        {
+            "name": "Lilly Nelkin",
+            "time": "00:09.83"
+        },
+        {
+            "name": "Maryclaire Wirth",
+            "time": "00:11.06"
+        },
+        {
+            "name": "Libby Klingensmith",
+            "time": "00:11.16"
+        },
+        {
+            "name": "Etta Cass",
+            "time": "00:11.17"
+        }
+    ],
+    "1000m": [
+        {
+            "name": "Helena Painting",
+            "time": "03:08.04"
+        },
+        {
+            "name": "Anna Blodgett",
+            "time": "03:08.94"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "03:21.03"
+        },
+        {
+            "name": "Madison Hansen",
+            "time": "03:24.79"
+        },
+        {
+            "name": "Hannah Denis",
+            "time": "03:26.03"
+        }
+    ],
+    "1500m RW": [
+        {
+            "name": "Mallory Malsegna",
+            "time": "08:15.88"
+        }
+    ],
+    "1200m": [
+        {
+            "name": "Helena Painting",
+            "time": "3:47.93"
+        },
+        {
+            "name": "Anna Blodgett",
+            "time": "3:54.11"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "3:54.92"
+        },
+        {
+            "name": "Megan Denis",
+            "time": "3:59.02"
+        },
+        {
+            "name": "Cait McElroy",
+            "time": "4:05.65"
+        }
+    ],
+    "1500m": [
+        {
+            "name": "Helena Painting",
+            "time": "04:55.29"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "05:04.50"
+        },
+        {
+            "name": "Megan Denis",
+            "time": "05:09.90"
+        },
+        {
+            "name": "Cait McElroy",
+            "time": "05:18.65"
+        },
+        {
+            "name": "Erica Willard",
+            "time": "05:21.77"
+        }
+    ],
+    "1600m": [
+        {
+            "name": "Helena Painting",
+            "time": "5:20.45"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "5:30.5"
+        },
+        {
+            "name": "Megan Denis",
+            "time": "5:36.39"
+        },
+        {
+            "name": "Cait McElroy",
+            "time": "5:45.94"
+        },
+        {
+            "name": "Erica Willard",
+            "time": "5:49.34"
+        }
+    ],
+    "1609m": [
+        {
+            "name": "Helena Painting",
+            "time": "5:20.45"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "5:30.5"
+        },
+        {
+            "name": "Megan Denis",
+            "time": "5:36.39"
+        },
+        {
+            "name": "Cait McElroy",
+            "time": "5:45.94"
+        },
+        {
+            "name": "Erica Willard",
+            "time": "5:49.34"
+        }
+    ],
+    "3000m": [
+        {
+            "name": "Megan Denis",
+            "time": "11:23.76"
+        },
+        {
+            "name": "Katie Poligone",
+            "time": "11:32.78"
+        },
+        {
+            "name": "Bridget Fish",
+            "time": "12:11.08"
+        },
+        {
+            "name": "Cait McElroy",
+            "time": "12:12.99"
+        },
+        {
+            "name": "Lucianna Sullivan",
+            "time": "12:18.51"
+        }
+    ]
+}
