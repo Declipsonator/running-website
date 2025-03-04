@@ -1,13 +1,18 @@
 import topRelays from './results/top_relays.json';
+import f_topRelays from './results/top_relays-F.json';
 import runners from './results/people.json';
+import f_runners from './results/people-F.json';
 import React from 'react';
 
 const Relays = () => {
+    let queryParams = new URLSearchParams(window.location.search);
+    let gender = queryParams.get('gender');
+    gender = gender ? gender : 'M';
 
 
     return (
         <div>
-            {Object.keys(topRelays).map((relay) => <div>
+            {Object.keys(gender == 'M' ? topRelays : f_topRelays).map((relay) => <div>
                 <h2>{relay}</h2>
                 <table class="table">
                     <thead>
@@ -20,7 +25,7 @@ const Relays = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        {topRelays[relay].map(team => <tr>
+                        {(gender == 'M' ? topRelays : f_topRelays)[relay].map(team => <tr>
                             {team['team'].map((runner) => <td>{runner[0]} - {secondsToTime(runner[1])}</td>)}
                             <td>{secondsToTime(team['total_time'])}</td>
                         </tr>)}

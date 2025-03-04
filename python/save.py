@@ -42,14 +42,14 @@ def convert_top_5_to_csv(top_per_event):
         writer.writerows(rows)
 
 
-def save_people_json(people):
-    with open('../src/results/people.json', 'w') as file:
+def save_people_json(people, suffix=''):
+    with open(f'../src/results/people{suffix}.json', 'w') as file:
         json.dump(people, file, indent=4)
 
-def save_top_5_json(top_per_event):
-    with open('../src/results/top_5.json', 'w') as file:
+def save_top_5_json(top_per_event, suffix=''):
+    with open(f'../src/results/top_5{suffix}.json', 'w') as file:
         json.dump(top_per_event, file, indent=4)
 
-def save_top_relays(top_relays):
-    with open('../src/results/top_relays.json', 'w') as file:
+def save_top_relays(top_relays, suffix=''):
+    with open(f'../src/results/top_relays{suffix}.json', 'w') as file:
         json.dump(top_relays, file, indent=4)

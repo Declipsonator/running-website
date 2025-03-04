@@ -1,5 +1,4 @@
 import React from "react";
-import runners from "../results/people.json";
 
 const TableBody = ({ tableData, columns }) => {
     return (
